@@ -1,0 +1,29 @@
+{
+    "translation": {
+        "Tornike Okroadze" : "თორნიკე ოქროაძე",
+        "Hi, I'm" : "გამარჯობა, მე ვარ",
+        "Tornike" : "თორნიკე",
+        "I develop web applications, user" : "ვაკეთებ ვებსაიტებს",
+        "interfaces and mobile apps" : "და მობილურ აპლიკაციებს",
+        "Introduction" : "შესავალი",
+        "Overview" : "მიმოხილვა",
+        "Experience Description" :
+        "ვარ გამოცდილი full-stack დეველოპერი, ვიყენებ PHP და JavaScript პროგრამირების ენებს, ასევე React, Laravel და Three.js framework-ებს. სწრაფად ვსწავლობ და მჭიდროდ ვთანამშრომლობ კლიენტებთან, რათა შევქმნა ეფექტური, მასშტაბური და მოსახერხებელი პლათფორმები, რომლებიც გადაჭრიან რეალურ პრობლემებს. მოდით, ერთად განვახორციელოთ თქვენი იდეები!",
+        "What I have done so far" : "რაც აქამდე გავაკეთე",
+        "My work" : "ჩემი ნამუშევარი",
+        "Projects" : "პროექტები",
+        "Projects Description" :
+        "შემდეგი პროექტები წარმოაჩენს ჩემს უნარებსა და გამოცდილებას რეალურ მაგალითებზე. თითოეული პროექტი მოიცავს მოკლე აღწერას, სანახავ ბმულს და დეტალებს გამოყენებული ტექნოლოგიების შესახებ. ეს ასახავს რთული ამოცანების გადაჭრას, სხვადასხვა ტექნოლოგიებთან მუშაობასა და პროექტების ეფექტურად მართვის უნარებს.",
+        "What others say" : "რას ამბობენ სხვები",
+        "Recommendations" : "რეკომენდაციები",
+        "Get in touch" : "დამიკავშირდით",
+        "Contact" : "კონტაქტი",
+        "Tornike Okroadze - Portfolio" : "თორნიკე ოქროაძე - პორტფოლიო",
+        "Welcome to my portfolio. I am a Full Stack Web & Mobile Developer, showcasing my skills, projects, and experience." :
+        "პრტფოლიო. მე ვარ Full Stack Web & Mobile დეველოპერი, ავღწერ ჩემს უნარებს, პროექტებს და გამოცდილებას.",
+        "Portfolio, Tornike, okroadze, Tornike Okroadze, Full Stack Web & Mobile Developer, Projects, Skills" :
+        "პრტფოლიო, რეზიუმე, თორნიკე, ოქროაძე, თორნიკე ოქროაძე, Full Stack Web & Mobile დეველოპერი, პროექტები, უნარები",
+        "Explore my projects, skills, and experience." : "აღმოაჩინეთ ჩემი პროექტები, უნარები და გამოცდილება",
+        "Portfolio" : "პრტფოლიო"
+    }
+}
